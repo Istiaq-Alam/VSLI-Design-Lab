@@ -10,8 +10,8 @@ Welcome to the **VSLI-Design-Lab** repository! This repository contains all of m
 
 - [About](#about)
 - [Repository Structure](#repository-structure)
-- [Lab Tasks & Reports](#lab-tasks-reports)
-- [Software & Tools](#software-tools)
+- [Lab Tasks & Reports](#lab-tasks-&-reports)
+- [Software & Tools](#software-&-tools)
 - [Resources](#resources)
 - [How to Use This Repo](#how-to-use-this-repo)
 - [License](#license)
@@ -77,6 +77,7 @@ This section hosts:
 - Required software installers and setup instructions
 - Tool configurations used in the lab (e.g., simulation tools, design tools)
 - Optional scripts for automation or analysis
+- Download software here [Link](https://github.com/Istiaq-Alam/VSLI-Design-Lab/tree/main/Matarials/Software-ZIP)
 
 Ensure that you follow any installation guidelines provided in the relevant sub-folders.
 
