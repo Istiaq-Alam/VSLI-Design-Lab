@@ -1,0 +1,115 @@
+USER SYMBOL by DSCH 2.7f
+DATE 5/30/2004 9:33:21 AM
+SYM  #tipu alu
+BB(0,0,40,110)
+TITLE 10 -2  #tipu alu
+MODEL 6000
+REC(5,5,30,100)
+PIN(0,70,0.00,0.00)kbd21
+PIN(0,80,0.00,0.00)kbd22
+PIN(0,90,0.00,0.00)kbd23
+PIN(0,100,0.00,0.00)kbd24
+PIN(0,30,0.00,0.00)kbd11
+PIN(0,40,0.00,0.00)kbd12
+PIN(0,50,0.00,0.00)kbd13
+PIN(0,60,0.00,0.00)kbd14
+PIN(0,10,0.00,0.00)in10
+PIN(0,20,0.00,0.00)in9
+PIN(40,10,2.00,1.00)digit11
+PIN(40,20,2.00,1.00)digit12
+PIN(40,30,2.00,1.00)digit13
+PIN(40,40,2.00,1.00)digit14
+PIN(40,50,2.00,1.00)out6
+PIN(40,60,2.00,1.00)out7
+PIN(40,70,2.00,1.00)out8
+PIN(40,80,2.00,1.00)out9
+LIG(0,70,5,70)
+LIG(0,80,5,80)
+LIG(0,90,5,90)
+LIG(0,100,5,100)
+LIG(0,30,5,30)
+LIG(0,40,5,40)
+LIG(0,50,5,50)
+LIG(0,60,5,60)
+LIG(0,10,5,10)
+LIG(0,20,5,20)
+LIG(35,10,40,10)
+LIG(35,20,40,20)
+LIG(35,30,40,30)
+LIG(35,40,40,40)
+LIG(35,50,40,50)
+LIG(35,60,40,60)
+LIG(35,70,40,70)
+LIG(35,80,40,80)
+LIG(5,5,5,105)
+LIG(5,5,35,5)
+LIG(35,5,35,105)
+LIG(35,105,5,105)
+VLG module tipu alu( kbd21,kbd22,kbd23,kbd24,kbd11,kbd12,kbd13,kbd14,
+VLG  in10,in9,digit11,digit12,digit13,digit14,out6,out7,
+VLG  out8,out9);
+VLG  input kbd21,kbd22,kbd23,kbd24,kbd11,kbd12,kbd13,kbd14;
+VLG  input in10,in9;
+VLG  output digit11,digit12,digit13,digit14,out6,out7,out8,out9;
+VLG  wire w35,w36,w37,w38,w39,w40,w41,w42;
+VLG  wire w43,w44,w45,w46,w47,w48,w49,w50;
+VLG  wire w51,w52,w53,w54,w55,w56,w57,w58;
+VLG  wire w59,w60,w61,w62,w63,w64,w65,w66;
+VLG  mux #(17) mux(out6,w20,w19,in9);
+VLG  mux #(17) mux(out7,w10,w9,in9);
+VLG  mux #(17) mux(out8,w5,w4,in9);
+VLG  mux #(17) mux(out9,w15,w14,in9);
+VLG  not #(10) inv(w24,kbd21);
+VLG  not #(10) inv(w26,kbd22);
+VLG  not #(10) inv(w28,kbd23);
+VLG  not #(10) inv(w30,kbd24);
+VLG  xor #(15) sub_1(w35,kbd13,w2);
+VLG  xor #(15) sub_2(w5,w35,w3);
+VLG  and #(15) sub_3(w36,w2,kbd13);
+VLG  and #(15) sub_4(w37,w2,w3);
+VLG  and #(15) sub_5(w38,kbd13,w3);
+VLG  or #(31) sub_6(w4,w36,w37,w38);
+VLG  xor #(15) sub_7(w39,kbd12,w7);
+VLG  xor #(15) sub_8(w10,w39,w8);
+VLG  and #(15) sub_9(w40,w7,kbd12);
+VLG  and #(15) sub_10(w41,w7,w8);
+VLG  and #(15) sub_11(w42,kbd12,w8);
+VLG  or #(31) sub_12(w9,w40,w41,w42);
+VLG  xor #(15) sub_13(w43,kbd14,w12);
+VLG  xor #(15) sub_14(w15,w43,w13);
+VLG  and #(15) sub_15(w44,w12,kbd14);
+VLG  and #(15) sub_16(w45,w12,w13);
+VLG  and #(15) sub_17(w46,kbd14,w13);
+VLG  or #(17) sub_18(w14,w44,w45,w46);
+VLG  xor #(15) sub_19(w47,kbd11,w17);
+VLG  xor #(15) sub_20(w20,w47,w18);
+VLG  and #(15) sub_21(w48,w17,kbd11);
+VLG  and #(15) sub_22(w49,w17,w18);
+VLG  and #(15) sub_23(w50,kbd11,w18);
+VLG  or #(31) sub_24(w19,w48,w49,w50);
+VLG  mux #(12) sub_25(w51,w9,w9,in10);
+VLG  mux #(12) sub_26(w52,vss,vdd,in10);
+VLG  mux #(26) sub_27(w3,w51,w52,in9);
+VLG  mux #(12) sub_28(w53,vss,vdd,in10);
+VLG  mux #(12) sub_29(w54,vss,vdd,in10);
+VLG  mux #(26) sub_30(w18,w53,w54,in9);
+VLG  mux #(12) sub_31(w55,kbd21,w24,in10);
+VLG  mux #(12) sub_32(w56,kbd21,kbd21,in10);
+VLG  mux #(26) sub_33(w17,w55,w56,in9);
+VLG  mux #(12) sub_34(w57,w19,w19,in10);
+VLG  mux #(12) sub_35(w58,vss,vdd,in10);
+VLG  mux #(26) sub_36(w8,w57,w58,in9);
+VLG  mux #(12) sub_37(w59,w4,w4,in10);
+VLG  mux #(12) sub_38(w60,vss,vdd,in10);
+VLG  mux #(26) sub_39(w13,w59,w60,in9);
+VLG  mux #(12) sub_40(w61,kbd22,w26,in10);
+VLG  mux #(12) sub_41(w62,kbd22,kbd22,in10);
+VLG  mux #(26) sub_42(w7,w61,w62,in9);
+VLG  mux #(12) sub_43(w63,kbd23,w28,in10);
+VLG  mux #(12) sub_44(w64,kbd23,kbd23,in10);
+VLG  mux #(26) sub_45(w2,w63,w64,in9);
+VLG  mux #(12) sub_46(w65,kbd24,w30,in10);
+VLG  mux #(12) sub_47(w66,kbd24,kbd24,in10);
+VLG  mux #(26) sub_48(w12,w65,w66,in9);
+VLG endmodule
+FSYM
