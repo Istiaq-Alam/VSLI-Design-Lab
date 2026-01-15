@@ -13,7 +13,7 @@ Click on the links below to download the software files.
 | Software Name | File Type | Download Link |
 |--------------|----------|---------------|
 | DSCH2      | `.exe` | [Download](https://github.com/Istiaq-Alam/VSLI-Design-Lab/raw/refs/heads/main/Matarials/Software-ZIP/Dsch2.exe) |
-| MicroWind | `.exe` | [Download](./MicroWind.exe) |
+| MicroWind | `.exe` | [Download](https://github.com/Istiaq-Alam/VSLI-Design-Lab/raw/refs/heads/main/Matarials/Software-ZIP/MicroWind.exe) |
 
 > 📌 **Tip:** Click on the file name, then click **Download** or **View raw** to start the download.
 
