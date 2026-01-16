@@ -2,7 +2,7 @@
 
 **CSE4218 VLSI Design Notes and Lab Works**
 
-Welcome to the **VSLI-Design-Lab** repository! This repository contains all of my work for the *VLSI Design* laboratory course, including lab tasks, assignments, reports, software used in the lab, and additional resources that support learning and experimentation in VLSI design. Here is the software installation process [Link](https://github.com/Istiaq-Alam/VSLI-Design-Lab/blob/main/Matarials/Software-ZIP/README.md)
+Welcome to the **VSLI-Design-Lab** repository! This repository contains all of my work for the *VLSI Design* laboratory course, including lab tasks, assignments, reports, software used in the lab, and additional resources that support learning and experimentation in VLSI design. Here is the software installation process [Link](https://github.com/Istiaq-Alam/VSLI-Design-Lab/blob/main/Materials/Software-ZIP/README.md)
 
 ---
 
