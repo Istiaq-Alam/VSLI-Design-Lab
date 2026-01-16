@@ -2,14 +2,13 @@
 
 **CSE4218 VLSI Design Notes and Lab Works**
 
-Welcome to the **VSLI-Design-Lab** repository! This repository contains all of my work for the *VLSI Design* laboratory course, including lab tasks, assignments, reports, software used in the lab, and additional resources that support learning and experimentation in VLSI design. Here is the software installation process [Link](https://github.com/Istiaq-Alam/VSLI-Design-Lab/blob/main/Materials/Software-ZIP/README.md)
-
+Welcome to the **VSLI-Design-Lab** repository! This repository contains all of my work for the *VLSI Design* laboratory course, including lab tasks, assignments, reports, software used in the lab, and additional resources that support learning and experimentation in VLSI design. 
+Here is the software installation process [Link](https://github.com/Istiaq-Alam/VSLI-Design-Lab/blob/main/Materials/Software-ZIP/README.md)
 ---
 
 ## Table of Contents
 
 - [About](#about)
-- [Repository Structure](#repository-structure)
 - [Lab Tasks & Reports](#lab-tasks-&-reports)
 - [Software & Tools](#software-&-tools)
 - [Resources](#resources)
@@ -31,29 +30,6 @@ This repository is dedicated to organizing all course-related materials for the 
 
 The goal is to centralize all VLSI lab work in one place for easy access and future reference.
 
----
-
-## Repository Structure
-
-Here’s an overview of the typical directory structure (you can adjust this based on how you organize the files):
-
-```
-
-VSLI-Design-Lab/
-├── Lab-01/
-├── Lab-02/
-├── Lab-03/
-├── Materials/
-│   ├── Notes/
-│   ├── Slides/
-│   └── References/
-├── Software/
-│   ├── Tool-Setup/
-│   └── Licenses/
-├── Reports/
-└── README.md
-
-```
 
 ---
 
@@ -77,24 +53,12 @@ This section hosts:
 - Required software installers and setup instructions
 - Tool configurations used in the lab (e.g., simulation tools, design tools)
 - Optional scripts for automation or analysis
-- Download software here [Link](https://github.com/Istiaq-Alam/VSLI-Design-Lab/tree/main/Matarials/Software-ZIP)
+- Download software here [Link](https://github.com/Istiaq-Alam/VSLI-Design-Lab/blob/main/Materials/Software-ZIP/README.md)
 
 Ensure that you follow any installation guidelines provided in the relevant sub-folders.
 
 ---
 
-## Resources
-
-External and internal resources to support your learning:
-
-- Lecture slides or notes
-- Reference books or links
-- Sample problems and suggested solutions
-- Tool documentation
-
-These help reinforce core concepts and assist with completing assignments successfully.
-
----
 
 ## How to Use This Repo
 
