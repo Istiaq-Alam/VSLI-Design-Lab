@@ -1,4 +1,4 @@
-# 📦 VLSI Lab Software Download Here
+# 📦 VLSI Lab Software Download
 This Folder contains useful software and setup files that you can download directly from GitHub.
 
 ---
