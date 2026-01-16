@@ -13,6 +13,7 @@ Click on the links below to download the software files.
 | MicroWind | `.exe` | [Download](https://github.com/Istiaq-Alam/VSLI-Design-Lab/raw/refs/heads/main/Materials/Software-ZIP/MICROWIND_2.zip) |
 ---
 After Download the full package of Zip file, 
+- Extract the Zip file ``DSCH_2.zip``
 - Go to ```DSCH_2/EXPORT_DSCH_2```
 - Run ```Dsch2.exe```
 
