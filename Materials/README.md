@@ -9,12 +9,12 @@ Click on the links below to download the software files.
 ### 🔹 Software List
 | Software Name | File Type | Download Link |
 |--------------|----------|---------------|
-| DSCH2      | `.exe` | [Download](https://github.com/Istiaq-Alam/VSLI-Design-Lab/raw/refs/heads/main/Materials/Software-ZIP/Dsch2.exe) |
-| MicroWind | `.exe` | [Download](https://github.com/Istiaq-Alam/VSLI-Design-Lab/raw/refs/heads/main/Materials/Software-ZIP/MicroWind.exe) |
+| DSCH2      | `.exe` | [Download](https://github.com/Istiaq-Alam/VSLI-Design-Lab/raw/refs/heads/main/Materials/Software-ZIP/DSCH_2.zip) |
+| MicroWind | `.exe` | [Download](https://github.com/Istiaq-Alam/VSLI-Design-Lab/raw/refs/heads/main/Materials/Software-ZIP/MICROWIND_2.zip) |
 ---
-You can Download full package in Zip file : 
-- EXPORT_DSCH-2.zip [Download](https://github.com/Istiaq-Alam/VSLI-Design-Lab/raw/refs/heads/main/Materials/Software-ZIP/EXPORT_DSCH_2.zip)
-- EXPORT_MICROWIND_2.zip [Download](https://github.com/Istiaq-Alam/VSLI-Design-Lab/raw/refs/heads/main/Materials/Software-ZIP/EXPORT_MICROWIND_2.zip)
+After Download the full package of Zip file, 
+- Go to ```DSCH_2/EXPORT_DSCH_2```
+- Run ```Dsch2.exe```
 
 > 📌 **Tip:** Check the file name, then click **Download** to start the download.
 
