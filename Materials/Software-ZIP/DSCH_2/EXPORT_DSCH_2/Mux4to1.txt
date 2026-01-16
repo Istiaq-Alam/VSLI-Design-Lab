@@ -1,0 +1,28 @@
+// DSCH 2.7f
+// 5/23/2004 9:11:34 AM
+// C:\mw03\Export dsch2\Mux4to1.sch
+
+module Mux4to1( A,B,C,D,S2,S1,out1);
+ input A,B,C,D,S2,S1;
+ output out1;
+ wire w12,w13,w14,w15,w16,w17;
+ not #(114) c11(w10,S2);
+ not #(128) c11(w5,S1);
+endmodule
+
+// Simulation parameters in Verilog Format
+always
+#1000 A=~A;
+#2000 B=~B;
+#4000 C=~C;
+#8000 D=~D;
+#16000 S2=~S2;
+#32000 S1=~S1;
+
+// Simulation parameters
+// A CLK 10 10
+// B CLK 20 20
+// C CLK 40 40
+// D CLK 80 80
+// S2 CLK 160 160
+// S1 CLK 320 320

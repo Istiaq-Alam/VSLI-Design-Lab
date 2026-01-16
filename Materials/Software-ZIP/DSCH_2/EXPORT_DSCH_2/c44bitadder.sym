@@ -1,0 +1,69 @@
+USER SYMBOL by DSCH 2.7f
+DATE 5/17/2004 3:52:39 PM
+SYM  #4bitadder
+BB(0,0,40,90)
+TITLE 10 -2  #4bitadder
+MODEL 6000
+REC(5,5,30,80)
+PIN(0,40,0.00,0.00)kbd21
+PIN(0,30,0.00,0.00)kbd22
+PIN(0,20,0.00,0.00)kbd23
+PIN(0,10,0.00,0.00)kbd24
+PIN(0,80,0.00,0.00)kbd11
+PIN(0,70,0.00,0.00)kbd12
+PIN(0,60,0.00,0.00)kbd13
+PIN(0,50,0.00,0.00)kbd14
+PIN(40,50,2.00,1.00)digit21
+PIN(40,40,2.00,1.00)digit22
+PIN(40,30,2.00,1.00)digit23
+PIN(40,20,2.00,1.00)digit24
+PIN(40,10,2.00,1.00)out1
+LIG(0,40,5,40)
+LIG(0,30,5,30)
+LIG(0,20,5,20)
+LIG(0,10,5,10)
+LIG(0,80,5,80)
+LIG(0,70,5,70)
+LIG(0,60,5,60)
+LIG(0,50,5,50)
+LIG(35,50,40,50)
+LIG(35,40,40,40)
+LIG(35,30,40,30)
+LIG(35,20,40,20)
+LIG(35,10,40,10)
+LIG(5,5,5,85)
+LIG(5,5,35,5)
+LIG(35,5,35,85)
+LIG(35,85,5,85)
+VLG module 4 bit adder( kbd21,kbd22,kbd23,kbd24,kbd11,kbd12,kbd13,kbd14,
+VLG  digit21,digit22,digit23,digit24,out1);
+VLG  input kbd21,kbd22,kbd23,kbd24,kbd11,kbd12,kbd13,kbd14;
+VLG  output digit21,digit22,digit23,digit24,out1;
+VLG  wire w17,w18,w19,w20,w21,w22,w23,w24;
+VLG  wire w25,w26,w27,w28,w29,w30,w31,w32;
+VLG  xor #(10) sub_1(digit21,w17,w1);
+VLG  xor #(10) sub_2(w17,kbd14,kbd24);
+VLG  nand #(10) sub_3(w18,kbd24,kbd14);
+VLG  nand #(10) sub_4(w19,kbd24,w1);
+VLG  nand #(10) sub_5(w20,kbd14,w1);
+VLG  nand #(10) sub_6(out1,w18,w19,w20);
+VLG  xor #(10) sub_7(digit23,w21,w6);
+VLG  xor #(10) sub_8(w21,kbd12,kbd22);
+VLG  nand #(10) sub_9(w22,kbd22,kbd12);
+VLG  nand #(10) sub_10(w23,kbd22,w6);
+VLG  nand #(10) sub_11(w24,kbd12,w6);
+VLG  nand #(24) sub_12(w10,w22,w23,w24);
+VLG  xor #(10) sub_13(digit22,w25,w10);
+VLG  xor #(10) sub_14(w25,kbd13,kbd23);
+VLG  nand #(10) sub_15(w26,kbd23,kbd13);
+VLG  nand #(10) sub_16(w27,kbd23,w10);
+VLG  nand #(10) sub_17(w28,kbd13,w10);
+VLG  nand #(24) sub_18(w1,w26,w27,w28);
+VLG  xor #(10) sub_19(digit24,w29,vss);
+VLG  xor #(10) sub_20(w29,kbd11,kbd21);
+VLG  nand #(10) sub_21(w30,kbd21,kbd11);
+VLG  nand #(10) sub_22(w31,kbd21,vss);
+VLG  nand #(10) sub_23(w32,kbd11,vss);
+VLG  nand #(24) sub_24(w6,w30,w31,w32);
+VLG endmodule
+FSYM
