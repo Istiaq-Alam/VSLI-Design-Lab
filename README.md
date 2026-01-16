@@ -10,8 +10,8 @@ Here is the software installation process [Link](https://github.com/Istiaq-Alam/
 ## Table of Contents
 
 - [About](#about)
-- [Lab Tasks & Reports](#lab-tasks-&-reports)
-- [Software & Tools](#software-&-tools)
+- [Lab Tasks](#lab-tasks)
+- [Software](#software)
 - [Resources](#resources)
 - [How to Use This Repo](#how-to-use-this-repo)
 - [License](#license)
@@ -34,20 +34,20 @@ The goal is to centralize all VLSI lab work in one place for easy access and fut
 
 ---
 
-## Lab Tasks & Reports
+## Lab Tasks
 
 Each lab session includes:
 
 - A dedicated folder (e.g., `Lab-01`, `Lab-02`)
 - Instructions and task descriptions
 - Source files submitted
-- A formal lab report (PDF or Markdown) documenting goals, process, results, and conclusions
+- A formal lab report (PDF) documenting goals, process, results, and conclusions
 
 You can explore these folders to review individual lab work.
 
 ---
 
-## Software & Tools
+## Software
 
 This section hosts:
 
