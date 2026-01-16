@@ -16,6 +16,10 @@ After Download the full package of Zip file,
 - Go to ```DSCH_2/EXPORT_DSCH_2```
 - Run ```Dsch2.exe```
 
+For MICROWIND,
+- Extract the Zip file ``MICROWIND_2.zip``
+- Go to ``MICROWIND_2/examples/1``
+- Run ``MicroWind.exe``
 > 📌 **Tip:** Check the file name, then click **Download** to start the download.
 
 ---
