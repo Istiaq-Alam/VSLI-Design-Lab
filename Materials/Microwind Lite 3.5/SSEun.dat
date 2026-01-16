@@ -1,0 +1,385 @@
+****************************************************************
+*UNINSTALL DEFINITION FILE                                     *
+*For Microwind Lite 3.5                                        *
+*(Created with SSE Setup 6.4 - www.ssesetup.com)               *
+*(SSE Setup is free for non-commercial use)                    *
+****************************************************************
+
+<PROGRAMINFO>
+NAME:Microwind Lite
+VERSION:3.5
+TYPE:Application
+MANUALUNINSTALLSUPPORT:YES
+REMPROGFOLDER:1
+ADMINREQ:1
+64BITMODE:0
+</PROGRAMINFO>
+
+<MISCELLANEOUS>
+LANGUAGE:100
+MAINPROG:C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\system\Microwind35.exe
+REQUIRESELEVATEDADMIN:0
+UNINSTALLSHELLREFRESH:0
+</MISCELLANEOUS>
+
+<UNINSTALLFILES>
+C:\Program Files (x86)\Microwind Lite 3.5\sseexec.dat
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\system\Silicon.exe
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\system\registration.chm
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\system\Microwind35.exe
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\system\microwind3.ini
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\system\license.ldf
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\system\iNetwork Server.cfg
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\system\default.ibs
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\system\compiler.ini
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\rules\default.rul
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\rules\cmos12.rul
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\rules\cmos08.rul
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\rules\cmos06.rul
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\rules\cmos025.rul
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\zoom.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\view.htm
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\verilog.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\simulate.htm
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\simul.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\rules.gif
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\resistor.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\processvar.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\process3d.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\process2d.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\params.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\parametric.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\palette.gif
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\opengl.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\navigator.gif
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\mosiv.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\mos.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\ionioff.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\inductor.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\index.htm
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\help.htm
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\global_dly.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\global_ctk.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\functionalpoint.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\file.htm
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\fem.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\extractor.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\etienne.css
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\edit.htm
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\Desktop.ini
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\contacts.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\compile.htm
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\analysis_clip_image006.gif
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\analysis_clip_image004.gif
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\analysis_clip_image002.gif
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html\analysis.htm
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\xor2.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\Vref.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\VCO.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\Trigger.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\TGate.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\RSNor.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\RSNand.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\ResPoly.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\ResMos.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\RamStatic6T.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\RamSenseAmpli2.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\Ram6TMargin.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\ram6T_45nm.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\Ram64.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\PowerAmplifier.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\Pll.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\or2.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\nor3.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\Nor2.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\nand3.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\Nand2.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\mux.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\mosp.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\MOSn.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\MosLayout.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\MosContacts.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\Mixer.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\mirror.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\IOPadInInv.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\Inverter.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\Inverter.CIR
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\inv5Enable.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\inv3.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\inv.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\halfAdder.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\fullAdder.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\EepromCell.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\Eeprom4x4.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\DramCell2.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\DRam1.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\DLatchLevel.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\DLatch.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\DacR2R4bit-follower.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\DAC.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\crosstalkChip.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\crosstalk.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\cmos.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\ClockDiv2.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\ChargePump.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\carryCell.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\basicDevices.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\And2.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\analogSwitch.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\analogInv.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\AmpliDiff2.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\Add4.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\adc.msk
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\system\spice.lib
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\system\Dsch35.exe
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\system\dsch3.ini
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\system\Desktop.ini
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\rules\Desktop.ini
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\rules\default.tec
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\xor3.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\xor2.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\Xnor3.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\Xnor2.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\VSS.SYM
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\VSOURCE.SYM
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\VDD.SYM
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\trigger.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\triangle.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\tline.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\tgate.SYM
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\self.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\rlc.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\Res.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\rc.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\Pwl.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\probe.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\pmos4.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\pmos.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\pip.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\padout.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\padin.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\pad.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\or4.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\or3.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\Or2.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\onoff.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\notif1.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\not.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\nor4.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\nor3.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\Nor2.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\Nmos4.SYM
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\Nmos.SYM
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\nand4.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\nand3.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\Nand2.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\muxSwitch.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\mux.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\Mutual.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\mul.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\mem8x8.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\mem16x16.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\matrix.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\lvdsOut.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\lvdsIn.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\lut.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\Light.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\latch.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\kbdsigned.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\kbd.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\ISOURCE.SYM
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\io.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\invIf1.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\invBig.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\inv.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\intercolong.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\interco.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\inout.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\fuseOff.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\fuse.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\fixedpoint.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\filterk.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\eeprom2.SYM
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\eeprom.SYM
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\DReg.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\display.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\diodeZ.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\Diode.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\digit.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\darrow.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\complex7.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\complex5.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\complex3.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\clock.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\capah.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\capabig.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\capa.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\button.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\Bufif1.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\Buf.SYM
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\box.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\arrow.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\aop.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\and4.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\and3.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\And2.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\add.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\8051.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\7SEG.SYM
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee\16f84.sym
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\html\winspice.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\html\view.htm
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\html\timingdiagram.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\html\test3.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\html\test2.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\html\test1.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\html\symbols2.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\html\symbols.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\html\subcircuit.gif
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\html\simulation.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\html\simulateoptions.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\html\simulate.htm
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\html\simucontrol.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\html\schematosymbol.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\html\makeverilog.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\html\listofsymbols.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\html\insert.htm
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\html\index.htm
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\html\help.htm
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\html\help.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\html\generatespice.gif
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\html\file.htm
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\html\etienne.css
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\html\edit.htm
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\html\Desktop.ini
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\html\designhierarchy.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\html\criticalpath.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\html\appnoteup.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\html\appnotetest.GIF
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\vsm\Full version has all examples.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\test\Full version has all examples.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\spice\Full version has all examples.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\oscillators\Full version has all examples.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\multiplexors\Full version has all examples.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\mos\Full version has all examples.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\misc\Full version has all examples.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\microprocessor\Full version has all examples.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\memory\Full version has all examples.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\latch\Full version has all examples.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\IOs\Full version has all examples.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\inverter\Full version has all examples.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\fpga\Full version has all examples.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\dsp\Full version has all examples.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\counters\Full version has all examples.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\clock\Full version has all examples.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\basic\Full version has all examples.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\arithmetics\Full version has all examples.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\analog\Full version has all examples.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\amplifier\Full version has all examples.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\adder\Full version has all examples.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\xor2Cmos.v
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\xor2Cmos.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\xor2_16.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\xor2.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\xor2.MSK
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\spiceinvdc.txt
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\spiceinvdc.cir
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\spiceinv.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\spiceamplidc.txt
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\spiceamplidc.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\spiceamplidc.cir
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\spiceampliac.txt
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\spiceampliac.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\spiceampliac.cir
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\SensorTemperature.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\sampleHold.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\PowerAmp.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\nand4Cmos.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\nand3Cmos.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\nand2REqu.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\nand2Cmos.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\halfAdder.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\fpgaPip.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\Desktop.ini
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\Counts9.sch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\ClkDiv_2.sch
+C:\Program Files (x86)\Microwind Lite 3.5\readme.rtf
+C:\Program Files (x86)\Microwind Lite 3.5\license agreement.rtf
+C:\Program Files (x86)\Microwind Lite 3.5\Uninstall-MicrowindLite.exe
+C:\Users\istia\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Microwind Lite 3.5\Uninstall Microwind Lite 3.5.lnk
+C:\Users\istia\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Microwind Lite 3.5\Microwind Lite 3.5.lnk
+C:\Users\istia\OneDrive\Desktop\Microwind Lite 3.5.lnk
+C:\Users\istia\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Microwind Lite 3.5\Dsch Lite 3.5.lnk
+C:\Users\istia\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Microwind Lite 3.5\License Registration.lnk
+--SETUPCREATEDFOLDERSFLAG--
+C:\Users\istia\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Microwind Lite 3.5
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\system
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\rules
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Html
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\techno
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\soi
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\sensor
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\power_amplifier
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\pll
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\oscillator
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\multiplier
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\multiplexor
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\mos
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\mixers
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\misc
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\memory\Static Ram
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\memory\Rom
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\memory\Fram
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\memory\Eeprom
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\memory\Dynamic Ram
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\memory
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\maths
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\latches
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\ios
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\inverter
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\interconnects
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\inductance
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\fpga
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\counters
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\capacitance
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\basic gates
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\analog
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\amplifiers
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\adders
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples\adc - dac
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5\Examples
+C:\Program Files (x86)\Microwind Lite 3.5\Microwind3.5
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\system
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\rules
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\ieee
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\html
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\vsm
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\test
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\spice
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\oscillators
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\multiplexors
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\mos
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\misc
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\microprocessor
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\memory
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\latch
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\IOs
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\inverter
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\fpga
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\dsp
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\counters
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\clock
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\basic
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\arithmetics
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\analog
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\amplifier
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples\adder
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5\examples
+C:\Program Files (x86)\Microwind Lite 3.5\DSCH3.5
+</UNINSTALLFILES>
+
+<REGISTRY>
+DELETEKEY:HKEY_LOCAL_MACHINE\SOFTWARE\MICROSOFT\WINDOWS\CURRENTVERSION\UNINSTALL\Microwind Lite 3.5
+</REGISTRY>
+
+*****END OF UNINSTALL DEFINITION FILE FOR Microwind Lite 3.5*****
