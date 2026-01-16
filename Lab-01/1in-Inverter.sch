@@ -1,11 +1,11 @@
 DSCH 2.7f
-VERSION 1/15/2026 3:17:25 PM
+VERSION 1/16/2026 11:59:53 AM
 BB(36,-10,99,50)
 SYM  #light2
 BB(93,5,99,19)
 TITLE 95 19  #light
 MODEL 49
-PROP                                                                                                                                   
+PROP                                                                                                                                    
 REC(94,6,4,4,r)
 VIS 1
 PIN(95,20,0.000,0.000)out2
@@ -28,7 +28,7 @@ SYM  #nmos
 BB(55,20,75,40)
 TITLE 70 25  #nmos
 MODEL 901
-PROP   1.0u 0.12u MN                                                                                                                              
+PROP   1.0u 0.12u MN                                                                                                                               
 REC(56,25,19,15,r)
 VIS 2
 PIN(75,40,0.000,0.000)s
@@ -41,13 +41,13 @@ LIG(75,24,67,24)
 LIG(75,20,75,24)
 LIG(75,36,67,36)
 LIG(75,40,75,36)
-VLG  nmos nmos(drain,source,gate);
+VLG   nmos nmos(drain,source,gate);
 FSYM
 SYM  #pmos
 BB(55,0,75,20)
 TITLE 70 5  #pmos
 MODEL 902
-PROP   2.0u 0.12u MP                                                                                                                              
+PROP   2.0u 0.12u MP                                                                                                                               
 REC(56,5,19,15,r)
 VIS 2
 PIN(75,0,0.000,0.000)s
@@ -61,13 +61,13 @@ LIG(75,4,67,4)
 LIG(75,0,75,4)
 LIG(75,16,67,16)
 LIG(75,20,75,16)
-VLG  pmos pmos(drain,source,gate);
+VLG   pmos pmos(drain,source,gate);
 FSYM
 SYM  #button2
 BB(36,16,45,24)
 TITLE 40 20  #button
 MODEL 59
-PROP                                                                                                                                   
+PROP                                                                                                                                    
 REC(37,17,6,6,b)
 VIS 1
 PIN(45,20,0.000,0.000)Input
@@ -85,7 +85,7 @@ SYM  #vdd
 BB(70,-10,80,0)
 TITLE 73 -4  #vdd
 MODEL 1
-PROP                                                                                                                                   
+PROP                                                                                                                                    
 REC(0,0,0,0, )
 VIS 0
 PIN(75,0,0.000,0.000)vdd
@@ -115,4 +115,4 @@ LIG(75,20,95,20)
 LIG(55,10,55,20)
 LIG(45,20,55,20)
 LIG(55,20,55,30)
-FFIG X:\Downloads\Inverter.sch
+FFIG X:\Github\VSLI-Design-Lab\Lab-01\1in-Inverter.sch

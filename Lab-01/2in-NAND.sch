@@ -1,11 +1,11 @@
 DSCH 2.7f
-VERSION 1/15/2026 3:21:39 PM
+VERSION 1/16/2026 12:00:01 PM
 BB(26,-15,129,75)
 SYM  #nmos
 BB(65,25,85,45)
 TITLE 80 30  #nmos
 MODEL 901
-PROP   1.0u 0.12u MN                                                                                                                              
+PROP   1.0u 0.12u MN                                                                                                                               
 REC(66,30,19,15,r)
 VIS 2
 PIN(85,45,0.000,0.000)s
@@ -18,13 +18,13 @@ LIG(85,29,77,29)
 LIG(85,25,85,29)
 LIG(85,41,77,41)
 LIG(85,45,85,41)
-VLG  nmos nmos(drain,source,gate);
+VLG   nmos nmos(drain,source,gate);
 FSYM
 SYM  #nmos
 BB(65,45,85,65)
 TITLE 80 50  #nmos
 MODEL 901
-PROP   1.0u 0.12u MN                                                                                                                              
+PROP   1.0u 0.12u MN                                                                                                                               
 REC(66,50,19,15,r)
 VIS 2
 PIN(85,65,0.000,0.000)s
@@ -37,13 +37,13 @@ LIG(85,49,77,49)
 LIG(85,45,85,49)
 LIG(85,61,77,61)
 LIG(85,65,85,61)
-VLG  nmos nmos(drain,source,gate);
+VLG   nmos nmos(drain,source,gate);
 FSYM
 SYM  #pmos
 BB(50,0,70,20)
 TITLE 65 5  #pmos
 MODEL 902
-PROP   2.0u 0.12u MP                                                                                                                              
+PROP   2.0u 0.12u MP                                                                                                                               
 REC(51,5,19,15,r)
 VIS 2
 PIN(70,0,0.000,0.000)s
@@ -57,13 +57,13 @@ LIG(70,4,62,4)
 LIG(70,0,70,4)
 LIG(70,16,62,16)
 LIG(70,20,70,16)
-VLG  pmos pmos(drain,source,gate);
+VLG   pmos pmos(drain,source,gate);
 FSYM
 SYM  #pmos
 BB(80,0,100,20)
 TITLE 95 5  #pmos
 MODEL 902
-PROP   2.0u 0.12u MP                                                                                                                              
+PROP   2.0u 0.12u MP                                                                                                                               
 REC(81,5,19,15,r)
 VIS 2
 PIN(100,0,0.000,0.000)s
@@ -77,13 +77,13 @@ LIG(100,4,92,4)
 LIG(100,0,100,4)
 LIG(100,16,92,16)
 LIG(100,20,100,16)
-VLG  pmos pmos(drain,source,gate);
+VLG   pmos pmos(drain,source,gate);
 FSYM
 SYM  #vdd
 BB(80,-15,90,-5)
 TITLE 83 -9  #vdd
 MODEL 1
-PROP                                                                                                                                   
+PROP                                                                                                                                    
 REC(0,0,0,0, )
 VIS 0
 PIN(85,-5,0.000,0.000)vdd
@@ -112,7 +112,7 @@ SYM  #button1
 BB(26,21,35,29)
 TITLE 30 25  #button
 MODEL 59
-PROP                                                                                                                                   
+PROP                                                                                                                                    
 REC(27,22,6,6,b)
 VIS 1
 PIN(35,25,0.000,0.000)A
@@ -130,7 +130,7 @@ SYM  #button2
 BB(26,46,35,54)
 TITLE 30 50  #button
 MODEL 59
-PROP                                                                                                                                   
+PROP                                                                                                                                    
 REC(27,47,6,6,r)
 VIS 1
 PIN(35,50,0.000,0.000)B
@@ -148,7 +148,7 @@ SYM  #light1
 BB(123,5,129,19)
 TITLE 125 19  #light
 MODEL 49
-PROP                                                                                                                                   
+PROP                                                                                                                                    
 REC(124,6,4,4,r)
 VIS 1
 PIN(125,20,0.000,0.000)out1
@@ -190,4 +190,4 @@ LIG(35,25,45,25)
 LIG(45,25,45,35)
 LIG(35,50,65,50)
 LIG(65,50,65,55)
-FFIG X:\Downloads\NAND.sch
+FFIG X:\Github\VSLI-Design-Lab\Lab-01\2in-NAND.sch
