@@ -105,7 +105,3 @@ For questions or suggestions, feel free to reach out:
 Thank you for visiting the VSLI-Design-Lab repository!
 
 ```
-
-
-
-[1]: https://github.com/jehna/readme-best-practices?utm_source=chatgpt.com "GitHub - jehna/readme-best-practices: Best practices for writing a README for your open source project"
