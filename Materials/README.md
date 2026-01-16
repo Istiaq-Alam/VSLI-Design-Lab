@@ -7,10 +7,11 @@ This Folder contains useful software and setup files that you can download direc
 Click on the links below to download the software files.
 
 ### 🔹 Software List
-| Software Name | File Type | Download Link |
+| Software Name | Version | Download Link |
 |--------------|----------|---------------|
-| DSCH2      | `.exe` | [Download](https://github.com/Istiaq-Alam/VSLI-Design-Lab/raw/refs/heads/main/Materials/Software-ZIP/DSCH_2.zip) |
-| MicroWind | `.exe` | [Download](https://github.com/Istiaq-Alam/VSLI-Design-Lab/raw/refs/heads/main/Materials/Software-ZIP/MICROWIND_2.zip) |
+| DSCH2      | `Version 2` .zip | [Download](https://github.com/Istiaq-Alam/VSLI-Design-Lab/raw/refs/heads/main/Materials/Software-ZIP/DSCH_2.zip) |
+| MicroWind | `Version 2` .zip | [Download](https://github.com/Istiaq-Alam/VSLI-Design-Lab/raw/refs/heads/main/Materials/Software-ZIP/MICROWIND_2.zip) |
+| MicroWind | `3.5 full version` .exe | [Download](https://github.com/Istiaq-Alam/VSLI-Design-Lab/raw/refs/heads/main/Materials/Software-ZIP/microwindlite35.exe) |
 ---
 After Download the full package of Zip file, 
 - Extract the Zip file ``DSCH_2.zip``
