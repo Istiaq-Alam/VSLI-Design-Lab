@@ -1,4 +1,4 @@
-# Lab-01
+# VLSI Design Lab-01
 - 1-input Inverter
 - 2-input NAND
 - 3-input NAND
