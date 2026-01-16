@@ -9,10 +9,10 @@ Click on the links below to download the software files.
 ## 🔹 Software List
 | Software Name | Version | Download Link |
 |--------------|----------|---------------|
-| DSCH2      | `Version 2` .zip | [Download](https://github.com/Istiaq-Alam/VSLI-Design-Lab/raw/refs/heads/main/Materials/Software-ZIP/DSCH_2.zip) |
-| MicroWind | `Version 2` .zip | [Download](https://github.com/Istiaq-Alam/VSLI-Design-Lab/raw/refs/heads/main/Materials/Software-ZIP/MICROWIND_2.zip) |
-| MicroWind | `3.5 Pre Installed` .zip | [Download](https://github.com/Istiaq-Alam/VSLI-Design-Lab/raw/refs/heads/main/Materials/Software-ZIP/Microwind%203.5%20PreInstalled.zip) |
-| MicroWind | `3.5 full version` .exe | [Download](https://github.com/Istiaq-Alam/VSLI-Design-Lab/raw/refs/heads/main/Materials/Software-ZIP/microwindlite35.exe) |
+| DSCH_2.zip      | `Version 2` | [Download](https://github.com/Istiaq-Alam/VSLI-Design-Lab/raw/refs/heads/main/Materials/Software-ZIP/DSCH_2.zip) |
+| MICROWIND_2.zip | `Version 2` | [Download](https://github.com/Istiaq-Alam/VSLI-Design-Lab/raw/refs/heads/main/Materials/Software-ZIP/MICROWIND_2.zip) |
+| Microwind 3.5 PreInstalled.zip | `Version 3.5` | [Download](https://github.com/Istiaq-Alam/VSLI-Design-Lab/raw/refs/heads/main/Materials/Software-ZIP/Microwind%203.5%20PreInstalled.zip) |
+| Microwindlite35.exe | `version 3.5 full` | [Download](https://github.com/Istiaq-Alam/VSLI-Design-Lab/raw/refs/heads/main/Materials/Software-ZIP/microwindlite35.exe) |
 ---
 ### After Download the DSCH2 package of Zip file, 
 - Extract the Zip file ``DSCH_2.zip``
