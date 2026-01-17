@@ -1,5 +1,5 @@
 DSCH 2.7f
-VERSION 1/16/2026 11:59:53 AM
+VERSION 1/17/2026 2:43:30 PM
 BB(36,-10,99,50)
 SYM  #light2
 BB(93,5,99,19)
@@ -41,7 +41,7 @@ LIG(75,24,67,24)
 LIG(75,20,75,24)
 LIG(75,36,67,36)
 LIG(75,40,75,36)
-VLG   nmos nmos(drain,source,gate);
+VLG    nmos nmos(drain,source,gate);
 FSYM
 SYM  #pmos
 BB(55,0,75,20)
@@ -61,7 +61,7 @@ LIG(75,4,67,4)
 LIG(75,0,75,4)
 LIG(75,16,67,16)
 LIG(75,20,75,16)
-VLG   pmos pmos(drain,source,gate);
+VLG    pmos pmos(drain,source,gate);
 FSYM
 SYM  #button2
 BB(36,16,45,24)
