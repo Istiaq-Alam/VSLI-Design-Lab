@@ -20,3 +20,5 @@
 ## 2-input OR       ✅
 <img width="1171" height="841" alt="2in-OR" src="https://github.com/user-attachments/assets/0dd4c867-fdfb-447b-b8d1-21b81c633b14" />
 
+## 2-input XOR      ✅
+ 
