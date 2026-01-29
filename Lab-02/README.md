@@ -1,5 +1,5 @@
 # VLSI Design Lab-02 [29-01-26]
-## Implement the Following function :
+## Implement the Following function using CMOS :
 1. (ABC+D)'
 2. ((AB+CD)E)'
 3. ((AB+C)(A+B))'
