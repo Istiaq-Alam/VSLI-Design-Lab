@@ -12,3 +12,14 @@
 **Timing Diagram :** 
 
 
+
+## 1. Full-Adder :
+### SUM = A'B+AB'
+### CARRY = AB
+**Circuit Diagram :** 
+
+
+
+**Timing Diagram :** 
+
+
