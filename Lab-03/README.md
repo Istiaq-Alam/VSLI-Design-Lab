@@ -14,8 +14,8 @@
 
 
 ## 1. Full-Adder :
-### SUM = A'B+AB'
-### CARRY = AB
+### SUM = S = A ⊕ B ⊕ Cin
+### CARRY OUT = A B + C-IN (A ⊕ B)
 **Circuit Diagram :** 
 
 
