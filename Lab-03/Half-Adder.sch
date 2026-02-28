@@ -1,11 +1,11 @@
 DSCH 2.7f
-VERSION 2/26/2026 1:45:49 PM
+VERSION 2/28/2026 10:58:22 PM
 BB(21,-50,269,125)
 SYM  #pmos
 BB(140,-15,160,5)
 TITLE 145 -10  #pmos
 MODEL 902
-PROP   2.0u 0.12u MP                                                                                                                              
+PROP   2.0u 0.12u MP                                                                                                                               
 REC(140,-10,19,15,r)
 VIS 2
 PIN(140,-15,0.000,0.000)s
@@ -19,13 +19,13 @@ LIG(140,-11,148,-11)
 LIG(140,-15,140,-11)
 LIG(140,1,148,1)
 LIG(140,5,140,1)
-VLG  pmos pmos(drain,source,gate);
+VLG   pmos pmos(drain,source,gate);
 FSYM
 SYM  #pmos
 BB(140,-35,160,-15)
 TITLE 145 -30  #pmos
 MODEL 902
-PROP   2.0u 0.12u MP                                                                                                                              
+PROP   2.0u 0.12u MP                                                                                                                               
 REC(140,-30,19,15,r)
 VIS 2
 PIN(140,-35,0.000,0.000)s
@@ -39,13 +39,13 @@ LIG(140,-31,148,-31)
 LIG(140,-35,140,-31)
 LIG(140,-19,148,-19)
 LIG(140,-15,140,-19)
-VLG  pmos pmos(drain,source,gate);
+VLG   pmos pmos(drain,source,gate);
 FSYM
 SYM  #pmos
 BB(100,-15,120,5)
 TITLE 115 -10  #pmos
 MODEL 902
-PROP   2.0u 0.12u MP                                                                                                                              
+PROP   2.0u 0.12u MP                                                                                                                               
 REC(101,-10,19,15,r)
 VIS 2
 PIN(120,-15,0.000,0.000)s
@@ -59,13 +59,13 @@ LIG(120,-11,112,-11)
 LIG(120,-15,120,-11)
 LIG(120,1,112,1)
 LIG(120,5,120,1)
-VLG  pmos pmos(drain,source,gate);
+VLG   pmos pmos(drain,source,gate);
 FSYM
 SYM  #pmos
 BB(100,-35,120,-15)
 TITLE 115 -30  #pmos
 MODEL 902
-PROP   2.0u 0.12u MP                                                                                                                              
+PROP   2.0u 0.12u MP                                                                                                                               
 REC(101,-30,19,15,r)
 VIS 2
 PIN(120,-35,0.000,0.000)s
@@ -79,7 +79,7 @@ LIG(120,-31,112,-31)
 LIG(120,-35,120,-31)
 LIG(120,-19,112,-19)
 LIG(120,-15,120,-19)
-VLG  pmos pmos(drain,source,gate);
+VLG   pmos pmos(drain,source,gate);
 FSYM
 SYM  #vdd
 BB(240,45,250,55)
@@ -112,7 +112,7 @@ LIG(245,79,237,79)
 LIG(245,75,245,79)
 LIG(245,91,237,91)
 LIG(245,95,245,91)
-VLG      nmos nmos(drain,source,gate);
+VLG       nmos nmos(drain,source,gate);
 FSYM
 SYM  #vss
 BB(55,12,65,20)
@@ -162,7 +162,7 @@ LIG(60,-26,52,-26)
 LIG(60,-30,60,-26)
 LIG(60,-14,52,-14)
 LIG(60,-10,60,-14)
-VLG      pmos pmos(drain,source,gate);
+VLG       pmos pmos(drain,source,gate);
 FSYM
 SYM  #button2c
 BB(21,86,30,94)
@@ -213,7 +213,7 @@ LIG(60,-6,52,-6)
 LIG(60,-10,60,-6)
 LIG(60,6,52,6)
 LIG(60,10,60,6)
-VLG      nmos nmos(drain,source,gate);
+VLG       nmos nmos(drain,source,gate);
 FSYM
 SYM  #button2
 BB(21,-14,30,-6)
@@ -251,7 +251,7 @@ LIG(60,74,52,74)
 LIG(60,70,60,74)
 LIG(60,86,52,86)
 LIG(60,90,60,86)
-VLG      pmos pmos(drain,source,gate);
+VLG       pmos pmos(drain,source,gate);
 FSYM
 SYM  #vdd
 BB(55,60,65,70)
@@ -284,7 +284,7 @@ LIG(60,94,52,94)
 LIG(60,90,60,94)
 LIG(60,106,52,106)
 LIG(60,110,60,106)
-VLG      nmos nmos(drain,source,gate);
+VLG       nmos nmos(drain,source,gate);
 FSYM
 SYM  #pmos
 BB(225,55,245,75)
@@ -304,13 +304,13 @@ LIG(245,59,237,59)
 LIG(245,55,245,59)
 LIG(245,71,237,71)
 LIG(245,75,245,71)
-VLG      pmos pmos(drain,source,gate);
+VLG       pmos pmos(drain,source,gate);
 FSYM
 SYM  #vdd
 BB(125,-45,135,-35)
 TITLE 128 -39  #vdd
 MODEL 1
-PROP                                                                                                                                   
+PROP                                                                                                                                    
 REC(-10,-15,0,0, )
 VIS 0
 PIN(130,-35,0.000,0.000)vdd
@@ -324,7 +324,7 @@ SYM  #nmos
 BB(100,25,120,45)
 TITLE 115 30  #nmos
 MODEL 901
-PROP   1.0u 0.12u MN                                                                                                                              
+PROP   1.0u 0.12u MN                                                                                                                               
 REC(101,30,19,15,r)
 VIS 2
 PIN(120,45,0.000,0.000)s
@@ -337,13 +337,13 @@ LIG(120,29,112,29)
 LIG(120,25,120,29)
 LIG(120,41,112,41)
 LIG(120,45,120,41)
-VLG  nmos nmos(drain,source,gate);
+VLG   nmos nmos(drain,source,gate);
 FSYM
 SYM  #nmos
 BB(140,25,160,45)
 TITLE 145 30  #nmos
 MODEL 901
-PROP   1.0u 0.12u MN                                                                                                                              
+PROP   1.0u 0.12u MN                                                                                                                               
 REC(140,30,19,15,r)
 VIS 2
 PIN(140,45,0.000,0.000)s
@@ -356,13 +356,13 @@ LIG(140,29,148,29)
 LIG(140,25,140,29)
 LIG(140,41,148,41)
 LIG(140,45,140,41)
-VLG  nmos nmos(drain,source,gate);
+VLG   nmos nmos(drain,source,gate);
 FSYM
 SYM  #nmos
 BB(140,5,160,25)
 TITLE 145 10  #nmos
 MODEL 901
-PROP   1.0u 0.12u MN                                                                                                                              
+PROP   1.0u 0.12u MN                                                                                                                               
 REC(140,10,19,15,r)
 VIS 2
 PIN(140,25,0.000,0.000)s
@@ -375,7 +375,7 @@ LIG(140,9,148,9)
 LIG(140,5,140,9)
 LIG(140,21,148,21)
 LIG(140,25,140,21)
-VLG  nmos nmos(drain,source,gate);
+VLG   nmos nmos(drain,source,gate);
 FSYM
 SYM  #vss
 BB(125,47,135,55)
@@ -396,7 +396,7 @@ SYM  #nmos
 BB(100,5,120,25)
 TITLE 115 10  #nmos
 MODEL 901
-PROP   1.0u 0.12u MN                                                                                                                              
+PROP   1.0u 0.12u MN                                                                                                                               
 REC(101,10,19,15,r)
 VIS 2
 PIN(120,25,0.000,0.000)s
@@ -409,13 +409,13 @@ LIG(120,9,112,9)
 LIG(120,5,120,9)
 LIG(120,21,112,21)
 LIG(120,25,120,21)
-VLG  nmos nmos(drain,source,gate);
+VLG   nmos nmos(drain,source,gate);
 FSYM
 SYM  #light3c
 BB(263,60,269,74)
 TITLE 265 74  #light
 MODEL 49
-PROP                                                                                                                                   
+PROP                                                                                                                                    
 REC(264,61,4,4,r)
 VIS 1
 PIN(265,75,0.000,0.000)CARRY
@@ -453,7 +453,7 @@ SYM  #nmos
 BB(170,75,190,95)
 TITLE 185 80  #nmos
 MODEL 901
-PROP   1.0u 0.12u MN                                                                                                                              
+PROP   1.0u 0.12u MN                                                                                                                               
 REC(171,80,19,15,r)
 VIS 2
 PIN(190,95,0.000,0.000)s
@@ -466,13 +466,13 @@ LIG(190,79,182,79)
 LIG(190,75,190,79)
 LIG(190,91,182,91)
 LIG(190,95,190,91)
-VLG  nmos nmos(drain,source,gate);
+VLG   nmos nmos(drain,source,gate);
 FSYM
 SYM  #nmos
 BB(170,95,190,115)
 TITLE 185 100  #nmos
 MODEL 901
-PROP   1.0u 0.12u MN                                                                                                                              
+PROP   1.0u 0.12u MN                                                                                                                               
 REC(171,100,19,15,r)
 VIS 2
 PIN(190,115,0.000,0.000)s
@@ -485,13 +485,13 @@ LIG(190,99,182,99)
 LIG(190,95,190,99)
 LIG(190,111,182,111)
 LIG(190,115,190,111)
-VLG  nmos nmos(drain,source,gate);
+VLG   nmos nmos(drain,source,gate);
 FSYM
 SYM  #pmos
 BB(160,55,180,75)
 TITLE 175 60  #pmos
 MODEL 902
-PROP   2.0u 0.12u MP                                                                                                                              
+PROP   2.0u 0.12u MP                                                                                                                               
 REC(161,60,19,15,r)
 VIS 2
 PIN(180,55,0.000,0.000)s
@@ -505,13 +505,13 @@ LIG(180,59,172,59)
 LIG(180,55,180,59)
 LIG(180,71,172,71)
 LIG(180,75,180,71)
-VLG  pmos pmos(drain,source,gate);
+VLG   pmos pmos(drain,source,gate);
 FSYM
 SYM  #pmos
 BB(200,55,220,75)
 TITLE 205 60  #pmos
 MODEL 902
-PROP   2.0u 0.12u MP                                                                                                                              
+PROP   2.0u 0.12u MP                                                                                                                               
 REC(200,60,19,15,r)
 VIS 2
 PIN(200,55,0.000,0.000)s
@@ -525,13 +525,13 @@ LIG(200,59,208,59)
 LIG(200,55,200,59)
 LIG(200,71,208,71)
 LIG(200,75,200,71)
-VLG  pmos pmos(drain,source,gate);
+VLG   pmos pmos(drain,source,gate);
 FSYM
 SYM  #vdd
 BB(185,45,195,55)
 TITLE 188 51  #vdd
 MODEL 1
-PROP                                                                                                                                   
+PROP                                                                                                                                    
 REC(-45,-10,0,0, )
 VIS 0
 PIN(190,55,0.000,0.000)vdd
@@ -575,7 +575,7 @@ SYM  #light3
 BB(223,-5,229,9)
 TITLE 225 9  #light
 MODEL 49
-PROP                                                                                                                                   
+PROP                                                                                                                                    
 REC(224,-4,4,4,r)
 VIS 1
 PIN(225,10,0.000,0.000)SUM
@@ -612,7 +612,7 @@ LIG(205,-6,197,-6)
 LIG(205,-10,205,-6)
 LIG(205,6,197,6)
 LIG(205,10,205,6)
-VLG      pmos pmos(drain,source,gate);
+VLG       pmos pmos(drain,source,gate);
 FSYM
 SYM  #nmos
 BB(185,10,205,30)
@@ -631,7 +631,7 @@ LIG(205,14,197,14)
 LIG(205,10,205,14)
 LIG(205,26,197,26)
 LIG(205,30,205,26)
-VLG      nmos nmos(drain,source,gate);
+VLG       nmos nmos(drain,source,gate);
 FSYM
 SYM  #vdd
 BB(200,-20,210,-10)
@@ -655,8 +655,8 @@ CNC(165 35)
 CNC(95 30)
 CNC(75 35)
 CNC(225 75)
-CNC(145 50)
 CNC(160 75)
+CNC(95 50)
 CNC(90 35)
 CNC(160 105)
 CNC(185 5)
@@ -701,13 +701,13 @@ LIG(120,-15,140,-15)
 LIG(95,-5,100,-5)
 LIG(35,30,95,30)
 LIG(225,65,225,75)
-LIG(95,50,145,50)
+LIG(95,50,170,50)
 LIG(170,15,170,50)
+LIG(95,50,95,75)
 LIG(95,30,95,50)
-LIG(145,50,145,75)
 LIG(90,35,100,35)
-LIG(145,50,170,50)
-LIG(145,75,160,75)
+LIG(185,5,185,20)
+LIG(95,75,160,75)
 LIG(160,90,220,90)
 LIG(160,65,160,75)
 LIG(160,105,170,105)
@@ -718,5 +718,4 @@ LIG(90,35,90,105)
 LIG(220,65,220,90)
 LIG(205,10,225,10)
 LIG(185,0,185,5)
-LIG(185,5,185,20)
 FFIG X:\Github\VSLI-Design-Lab\Lab-03\Half-Adder.sch
