@@ -1,28 +1,12 @@
-# VLSI Design Lab-03 [26-02-26]
-## Implement Half-Adder & Full-Adder function using CMOS :
+# VLSI Design Lab-04 [09-04-26]
+## Implement FlopFlop using CMOS :
 -----
 
-## 1. Half-Adder :
-### SUM = A'B+AB'
-### CARRY = AB
-**Circuit Diagram :**
-<img width="1346" height="910" alt="Half-Adder" src="https://github.com/user-attachments/assets/e11700e5-eba8-47c2-b6fa-e30abccbcc49" />
-
+## 1. FlipFlop Circuit :
+<img width="1507" height="685" alt="FlipFlop" src="https://github.com/user-attachments/assets/4b3d48ae-b05a-406a-aaae-1d978bde6ab9" />
 
 
 **Timing Diagram :**
-
-<img width="663" height="479" alt="Half-Adder-TD" src="https://github.com/user-attachments/assets/fe07a680-f203-49d6-953e-5ebc82e65caa" />
-
-
-
-## 1. Full-Adder :
-### SUM = A ⊕ B ⊕ Cin
-### CARRY OUT = A B + C-IN (A ⊕ B)
-**Circuit Diagram :** 
-
-
-
-**Timing Diagram :** 
+<img width="962" height="481" alt="Timing Diagram" src="https://github.com/user-attachments/assets/1db1a291-507c-46b4-a060-96e9070ccffa" />
 
 
