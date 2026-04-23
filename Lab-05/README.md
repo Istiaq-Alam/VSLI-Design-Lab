@@ -21,7 +21,9 @@
 ---
 
 ## 3. Stick Diagram of 2in-NAND Gate :
+<img width="900" height="708" alt="2in-NOR" src="https://github.com/user-attachments/assets/f9822845-b512-4918-b2f0-28f07ba4dcb2" />
 
 
 
 **Output in Analog Simulation :**
+<img width="1920" height="1080" alt="2in-NOR-Out" src="https://github.com/user-attachments/assets/fed04c07-056e-4adb-bac5-31a462ad13f2" />
