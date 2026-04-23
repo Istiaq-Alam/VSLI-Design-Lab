@@ -11,9 +11,17 @@
 
 ---
 
-## 1. Stick Diagram of 2in-NAND Gate :
+## 2. Stick Diagram of 2in-NAND Gate :
 <img width="954" height="715" alt="2in-NAND" src="https://github.com/user-attachments/assets/ff69d0ce-4c6f-4ddc-85c2-27e625ca2d69" />
 
 
 **Output in Analog Simulation :**
 <img width="1920" height="1080" alt="2in-NAND-Out" src="https://github.com/user-attachments/assets/538db841-aed7-4789-95e8-293a2b923bff" />
+
+---
+
+## 3. Stick Diagram of 2in-NAND Gate :
+
+
+
+**Output in Analog Simulation :**
