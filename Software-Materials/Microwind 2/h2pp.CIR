@@ -1,0 +1,67 @@
+CIRCUIT D:\I\TMU\Autumn-2006\Integrated\mw-tools\Export Microwind\h2pp.MSK
+*
+* IC Technology: CMOS 0.12µm - 6 Metal
+*
+VDD 1 0 DC 1.20
+*
+* List of nodes
+* "N2" corresponds to n°2
+* "N3" corresponds to n°3
+* "N4" corresponds to n°4
+* "N6" corresponds to n°6
+* "N7" corresponds to n°7
+* "N8" corresponds to n°8
+* "N9" corresponds to n°9
+*
+* MOS devices
+MN1 14 15 0 0 N1  W= 1.20U L= 0.12U
+MN2 13 15 10 0 N1  W= 1.26U L= 0.12U
+MN3 12 14 10 0 N1  W= 8.46U L= 0.12U
+MN4 10 16 9 0 N1  W= 9.60U L= 0.12U
+MN5 8 17 0 0 N1  W= 1.20U L= 0.12U
+MN6 7 17 3 0 N1  W= 1.26U L= 0.12U
+MN7 6 8 4 0 N1  W= 8.46U L= 0.12U
+MN8 3 18 2 0 N1  W= 9.60U L= 0.12U
+*
+C2 2 0  2.678fF
+C3 3 0  3.257fF
+C4 4 0  2.351fF
+C6 6 0  2.351fF
+C7 7 0  0.378fF
+C8 8 0  1.080fF
+C9 9 0  2.678fF
+C10 10 0  6.525fF
+C12 12 0  2.351fF
+C13 13 0  0.378fF
+C14 14 0  1.080fF
+C15 15 0  0.150fF
+C16 16 0  0.478fF
+C17 17 0  0.150fF
+C18 18 0  0.478fF
+C19 1 0  0.013fF
+C20 1 0  0.023fF
+C21 1 0  0.023fF
+C22 1 0  0.013fF
+*
+* Extra RLC
+*
+Radd1 1 14 25000
+Radd2 1 13 100000
+Radd3 1 8 25000
+Radd4 1 7 100000
+*
+* n-MOS Model 3 :
+* low leakage
+.MODEL N1 NMOS LEVEL=3 VTO=0.40 UO=600.000 TOX= 2.0E-9
++LD =0.000U THETA=0.500 GAMMA=0.400
++PHI=0.200 KAPPA=0.060 VMAX=120.00K
++CGSO=100.0p CGDO=100.0p
++CGBO= 60.0p CJSW=240.0p
+*
+* Transient analysis
+*
+.TEMP 27.0
+.TRAN 0.1N 5.00N
+* (Pspice)
+.PROBE
+.END

@@ -1,0 +1,15 @@
+VERSION 1/03/99 18:45:27
+FIG #C:\Mis documentos\Ing. Elect\Full_Custom\MiMOS.MSK
+BB(0,-1,62,47)
+REC(17,9,16,23,DN)
+REC(0,9,15,23,DN)
+REC(15,-1,2,41,PO)
+REC(15,9,2,23,DN)
+TITLE 3 21  #drain
+$c 1000 0   1.00   1.50   2.50   3.00 
+TITLE 17 37  #gate
+$c 1000 0   2.50   3.00   5.50   6.00 
+TITLE 22 20  #s1
+$v 1000 0 
+FFIG C:\Mis documentos\Ing. Elect\Full_Custom\MiMOS.MSK
+
